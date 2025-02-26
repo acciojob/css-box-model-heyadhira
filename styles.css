@@ -1,11 +1,10 @@
 
 /* Your CSS Code here. */
-*{
-	margin:20px
-}
-.box{
+
+div{
 	width:300px;
-	border:15px solid blue;
+	border:15px solid rgb(0, 0, 255);
 	pading:50px;
 	background-color:rgb(173, 216, 230);
+	margin:20px;
 }
